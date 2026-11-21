@@ -1,7 +1,7 @@
 # robocode-less9
 
 ### my name is ktoto
-![ivazolo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmz5rDY12qT8IKjB3qkBwP9X6qBYSmrO6T9lqRG8I0sg&s=10)
+![ivazolo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToOoiegKx3JSt5SI0thlkU2p7ITxS9-w7eF6F67eFXKw&s=10)
 
 ````
 console.log("Stary Bog 881")
