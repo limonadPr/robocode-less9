@@ -7,7 +7,7 @@
 console.log("Stary Bog 881")
 ````
 
-*[github](yyy.com)
+*[github](chatgpt.com)
 *[ivanzolo](https://www.youtube.com/@IvanZolo2077)
 *[roblox](roblox.com)
 
