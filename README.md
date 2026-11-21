@@ -1,7 +1,7 @@
 # robocode-less9
 
 ### my name is ktoto
-<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/2df389c8-0bb1-421a-952c-3a755448cfef" />
+![ivazolo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmz5rDY12qT8IKjB3qkBwP9X6qBYSmrO6T9lqRG8I0sg&s=10)
 
 ````
 console.log("Stary Bog 881")
